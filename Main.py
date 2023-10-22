@@ -1,4 +1,4 @@
-from math_function import add
+from Math_function import add
 
 
 def main():
